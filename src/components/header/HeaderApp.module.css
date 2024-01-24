@@ -1,0 +1,56 @@
+@import url('https://fonts.cdnfonts.com/css/esquadro');
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px;
+    font-family: 'Esquadro', sans-serif;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.header .divTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header .divTitle .title {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+}
+
+.header .divTitle .logo {
+    width: 60px;
+}
+
+.header .divButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header .divButtons .button {
+    margin: 3px 10px 5px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 2px;
+}
+
+.header .divButtons .button:hover {
+    font-size: 20px;
+}
+
+.header .divButtons .button2 {
+    margin: 3px 10px 5px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.header .divButtons .button2:hover {
+    font-size: 35px;
+}

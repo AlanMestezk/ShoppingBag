@@ -1,0 +1,18 @@
+.product {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(24, 24, 24, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.product .imgProduct {
+    max-width: 200px;
+    max-height: 200px;
+    min-height: 200px;
+    min-width: 200px;
+}

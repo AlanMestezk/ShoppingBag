@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/esquadro');
+.sectionProducts {
+    padding: 20px;
+    font-family: 'Esquadro', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .divtitle .title {
+    font-size: 60px;
+}
+
+.container .productsContainer {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    object-fit: contain;
+}
