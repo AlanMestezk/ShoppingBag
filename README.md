@@ -10,7 +10,7 @@ Essa prática contribui não apenas para uma estética visualmente agradável, m
 
 
 O desenvolvimento do projeto está em curso. Segue abaixo o link para visualização:
-
+https://shopping-bag-app.vercel.app
 
 
 
